@@ -6,6 +6,16 @@
     <description>Recent content on mch1nen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© mch1nen KE 2021</copyright><atom:link href="https://mch1nen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© mch1nen KE 2021</copyright>
+    <lastBuildDate>Fri, 17 Sep 2021 12:13:45 +0300</lastBuildDate><atom:link href="https://mch1nen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://mch1nen.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 17 Sep 2021 12:13:45 +0300</pubDate>
+      
+      <guid>https://mch1nen.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
