@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mch1nen</title>
+    <link>https://mch1nen.github.io/</link>
+    <description>Recent content on mch1nen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2021 11:24:14 +0300</lastBuildDate><atom:link href="https://mch1nen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mediatek Fakes</title>
+      <link>https://mch1nen.github.io/posts/mediatek-fakes/</link>
+      <pubDate>Sun, 17 Jan 2021 11:24:14 +0300</pubDate>
+      
+      <guid>https://mch1nen.github.io/posts/mediatek-fakes/</guid>
+      <description>Mediatek Clones </description>
+    </item>
+    
+  </channel>
+</rss>
